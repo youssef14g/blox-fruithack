@@ -60,4 +60,4 @@
 
 
 
-game.Players.localPlayer:Kick(..game.Players.LocalPlayer.Name.." You Where Kicked From The experience You Have been permanently banned")
+game.Players.localPlayer:Kick(" You Have been permanently banned")
